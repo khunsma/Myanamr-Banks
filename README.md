@@ -1,2 +1,2 @@
-# Myanamr-Banks
-Myanamr Banks
+# Myanmar-Banks
+Myanamar Banks Application implement by Simple MVVM.
