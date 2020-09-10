@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Myanmar Banks</string>
+    <string name="app_name">Banks</string>
 
     <string name="network_error">Network Error. Try Again?</string>
     <string name="ok">Ok</string>
